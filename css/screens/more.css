@@ -1,0 +1,11 @@
+.user-component__subtitle i{
+    margin-left: 5px;
+}
+
+.more-screen .icon-row{
+    margin-top: 35px;
+}
+
+.more-screen .icon-row:last-child{
+    flex-wrap: wrap;
+}
